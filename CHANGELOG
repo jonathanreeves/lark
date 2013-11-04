@@ -1,0 +1,10 @@
+August 2005:
+  geekOS used as base to develop real time signal processing system using a 
+  PCI sound card. Linux studied as a reference
+
+October 2005:
+   LARK started to build a kernel completely from scratch without borrowing 
+   GPL code. 
+
+11/17/05:
+   With base code and Makefiles in place, development of LARK begins

@@ -1,0 +1,11 @@
+- add code to install real interrupt and trap handlers for those with error
+  codes (right now default interrupt handler has no error code)
+
+- add kernel synchronization (semaphore, mutex, etc.)
+
+- add PCI support. Should be simple and fairly easy. Just add bios support
+  functions and add a couple of routines to build the list.
+
+- add ATA/IDE block device support 
+
+- port to ARM or other possible embedded architecture
